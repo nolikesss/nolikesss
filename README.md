@@ -1,4 +1,4 @@
-# Olá! Me chamo Pe-hrique.
+# Olá! Me chamo Pedro Tonasso.
 
 ### Sobre Mim
 <p>
