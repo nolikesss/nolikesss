@@ -39,11 +39,6 @@ Atualmente estudando para Front-end utilizando a linguagem JavaScript e análise
 
 ### on social media:
 
-<a href=""><img src="></a>
-<a href="><img src=/>
-    </a>
-</p>
-
 <div> 
   <a href ="mailto:pedroo_2016@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-frazão-tonasso-662a35244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
