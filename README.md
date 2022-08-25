@@ -1,4 +1,4 @@
-# Olá! Me chamo Pedro Tonasso.
+# HI!!, I'm Pedro.
 
 ### Sobre Mim
 <p>
