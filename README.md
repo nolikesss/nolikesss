@@ -1,4 +1,4 @@
-# HI!!, I'm Pedro.
+# HI!!
 
 ### Sobre Mim
 <p>
