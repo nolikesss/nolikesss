@@ -2,7 +2,7 @@
 
 ### Sobre Mim
 <p>
-Atualmente estudando para Front-end utilizando a linguagem JavaScript e análises de dados.
+Atualmente estudando para Front-end utilizando a linguagem JavaScript nessa jornada.
 
 <p>
 ### Principais Skills:
