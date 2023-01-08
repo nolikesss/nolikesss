@@ -35,12 +35,6 @@ Atualmente estudando para Front-end utilizando a linguagem JavaScript nessa jorn
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 
 
-### GitHub Analytics:
-
-<p align="left">
-  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YannDt&show_icons=true&theme=midnight-purple"/>
-  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YannDt&layout=compact&langs_count=8&theme=midnight-purple"/>
-</p>
 
 ### on social media:
 
