@@ -2,7 +2,7 @@
 
 ### Sobre Mim
 <p>
-Atualmente estudando para Front-end utilizando a linguagem JavaScript nessa jornada.
+Mantenho alguns repositórios e contribuo para a comunidade de software livre!.
 
 <p>
   
